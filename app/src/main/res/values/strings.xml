@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">AkiAndroidOne</string>
+    <string name="Edit_message" translatable="false">Enter a message</string>
+    <string name="Button_send" translatable="false">Send</string>
+</resources>
