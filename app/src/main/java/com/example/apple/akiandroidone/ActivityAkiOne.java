@@ -19,6 +19,7 @@ public class ActivityAkiOne extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(getApplicationContext(),akiactivity2.class));
+                //this is a comment line
             }
         });
     }
